@@ -31,7 +31,7 @@ public class SL_uc4 {
 		break;
 		
 		default: 
-		System.out.println("invalid");
+		System.out.println("Game Over!");
 		break;
 		}
 	}
